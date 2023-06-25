@@ -1,0 +1,73 @@
+{
+    "mahasiswa": [
+      {
+        "namaLengkap": "Cindi Dila Apriliana",
+        "alamat": "Jln Menco 2 Surakarta",
+        "prodi": "Informatika",
+        "usia": 20,
+        "lulus": false,
+        "mataKuliah": [
+          {
+            "nama": "Pemrograman Website",
+            "sks": 3,
+            "jadwal": "Senin, 10:00-12:00",
+            "dosen": "Gunawan Ariyanto",
+            "babMateri": "HTML, CSS, JavaScript"
+          },
+          {
+            "nama": "Algoritma Pemrograman",
+            "sks": 4,
+            "jadwal": "Rabu, 14:00-16:00",
+            "dosen": "Husni Thamrin",
+            "babMateri": "Pengenalan algoritma, struktur data"
+          },
+          {
+            "nama": "Kapita Selekta",
+            "sks": 2,
+            "jadwal": "Jumat, 13:00-15:00",
+            "dosen": "Pak. Endang",
+            "babMateri": "Topik pilihan dalam informatika"
+          }
+        ],
+        "nilai": {
+          "Kapita Selekta": "A",
+          "Algoritma Pemrograman": "A"
+        }
+      },
+      {
+        "namaLengkap": "Austazdhah Aulia Oktafia",
+        "alamat": "Jln Pusaka Jawa No 12 Boyolali",
+        "prodi": "Informatika",
+        "usia": 21,
+        "lulus": false,
+        "mataKuliah": [
+          {
+            "nama": "Jaringan Komputer",
+            "sks": 3,
+            "jadwal": "Selasa, 10:00-12:00",
+            "dosen": "Pak. Ihsan",
+            "babMateri": "Pengenalan jaringan, protokol komunikasi"
+          },
+          {
+            "nama": "Sistem Basis Data",
+            "sks": 4,
+            "jadwal": "Kamis, 14:00-16:00",
+            "dosen": "Helmi Imaduddin",
+            "babMateri": "Desain basis data, SQL"
+          },
+          {
+            "nama": "Skripsi",
+            "sks": 6,
+            "jadwal": "Senin-Jumat, 08:00-10:00",
+            "dosen": "Dedi Gunawan",
+            "babMateri": "Penelitian dan penulisan skripsi"
+          }
+        ],
+        "nilai": {
+          "Jaringan Komputer": "A",
+          "Sistem Basis Data": "A"
+        }
+      }
+    ]
+  }
+  
